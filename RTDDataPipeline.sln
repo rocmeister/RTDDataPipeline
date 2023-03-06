@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32319.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RTDDataPipeline", "RTDDataPipeline\RTDDataPipeline.csproj", "{A643F876-44CF-4904-BB22-B99C60B6FA52}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RTDPlugIn", "RTDPlugIn\RTDPlugIn.csproj", "{6C0BE61C-B898-44AC-939B-137F08F23BB9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A643F876-44CF-4904-BB22-B99C60B6FA52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A643F876-44CF-4904-BB22-B99C60B6FA52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A643F876-44CF-4904-BB22-B99C60B6FA52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A643F876-44CF-4904-BB22-B99C60B6FA52}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C0BE61C-B898-44AC-939B-137F08F23BB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C0BE61C-B898-44AC-939B-137F08F23BB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C0BE61C-B898-44AC-939B-137F08F23BB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C0BE61C-B898-44AC-939B-137F08F23BB9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {712992D3-456C-436A-B971-73FA3C7243BB}
+	EndGlobalSection
+EndGlobal
